@@ -148,7 +148,7 @@ mmseqs createtsv tf_db tf_db tf_cluster tf_cluster.tsv
 | IRF        | IRF domain                     | PF00605   | Helix-turn-helix          | 1.0E-04          |
 | MYB        | Myb_DNA-binding domain         | PF00249   | Helix-turn-helix          | 1.0E-04          |
 | PAX        | PAX domain                     | PF00292   | Helix-turn-helix          | 1.0E-04          |
-| Pou        | Homeobox|Pou                  | PF00157   | Helix-turn-helix          | 1.0E-04          |
+| Pou        | Homeobox_Pou                  | PF00157   | Helix-turn-helix          | 1.0E-04          |
 | SRF        | SRF domain                     | PF00319   | Helix-turn-helix          | 1.0E-04          |
 | TEA        | TEA domain                     | PF01285   | Helix-turn-helix          | 1.0E-04          |
 | GTF2I      | GTF2I domain                   | PF02946   | Other Alpha-Helix Group   | 1.0E-04          |
