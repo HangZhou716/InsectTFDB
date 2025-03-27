@@ -12,8 +12,8 @@ This document describes the analysis pipeline for building and utilizing the **I
 5. MMseqs2 (version 13.45111)
 
 <h3 id="data-sources">Data Sources</h3>
-+ **InsectBase 2.0** and **NCBI** for genome assemblies and corresponding official gene sets.
-+ **AnimalTFDB 4.0** and **InterPro** for Hidden Markov Model (HMM) profiles of transcription factor families.
+InsectBase 2.0 and NCBI for genome assemblies and corresponding official gene sets.
+AnimalTFDB 4.0 and InterPro for Hidden Markov Model (HMM) profiles of transcription factor families.
 
 <h2 id="analysis-pipeline">Analysis Pipeline</h2>
 <h3 id="64dfde5a">Step 1: Data Collection</h3>
