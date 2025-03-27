@@ -5,13 +5,11 @@ This document describes the analysis pipeline for building and utilizing the **I
 
 <h2 id="requirements">Requirements</h2>
 <h3 id="software">Software</h3>
-1. **gffread** (v0.12.7)
-2. **HMMER** (v3.4)
-3. **DIAMOND** (v2.1.10)
-4. **eggNOG-mapper** (v2.1.9)
-5. **MMseqs2** (version 13.45111)
-6. **Nginx** (v1.18.0)
-7. **Django** (v5.1.2)
+1. gffread (v0.12.7)
+2. HMMER (v3.4)
+3. DIAMOND (v2.1.10)
+4. eggNOG-mapper (v2.1.9)
+5. MMseqs2 (version 13.45111)
 
 <h3 id="data-sources">Data Sources</h3>
 + **InsectBase 2.0** and **NCBI** for genome assemblies and corresponding official gene sets.
