@@ -25,7 +25,7 @@ Genomes and official gene sets are retrieved from **InsectBase 2.0** and **NCBI*
 
 <h3 id="ofkVn">Step 2: Transcription Factor Identification</h3>
 <h4 id="jZZcW">2.1  Extract Protein Sequences  </h4>
-Use `gffread` to extract CDS from the GFF file and translate them into protein sequences.
+Use "gffread" to extract CDS from the GFF file and translate them into protein sequences.
 
 ```bash
 gffread genome.gff -g genome.fa -y proteins.fa
@@ -117,6 +117,7 @@ mmseqs createtsv tf_db tf_db tf_cluster tf_cluster.tsv
 
 
 <h4 id="ee4ih">Table S2. DNA binding domains of transcription factors </h4>
+
 | <font style="color:black;">Family</font> | <font style="color:black;">Domain</font> | <font style="color:black;">PFAM</font> | <font style="color:black;">Group</font> | <font style="color:black;">Cutoff (</font>_<font style="color:black;">E</font>_<font style="color:black;">-value)</font> |
 | --- | --- | --- | --- | --- |
 | <font style="color:black;">AP-2</font> | <font style="color:black;">TF_AP-2 domain</font> | [<u><font style="color:#0563c1;">PF03299</font></u>](http://pfam.xfam.org/family/PF03299) | <font style="color:black;">Basic Domians group</font> | <font style="color:black;">1.0E-04</font> |
