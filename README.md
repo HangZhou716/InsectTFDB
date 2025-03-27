@@ -118,76 +118,76 @@ mmseqs createtsv tf_db tf_db tf_cluster tf_cluster.tsv
 
 <h4 id="ee4ih">Table S2. DNA binding domains of transcription factors </h4>
 
-| <font style="color:black;">Family</font> | <font style="color:black;">Domain</font> | <font style="color:black;">PFAM</font> | <font style="color:black;">Group</font> | <font style="color:black;">Cutoff (</font>_<font style="color:black;">E</font>_<font style="color:black;">-value)</font> |
-| --- | --- | --- | --- | --- |
-| <font style="color:black;">AP-2</font> | <font style="color:black;">TF_AP-2 domain</font> | [<u><font style="color:#0563c1;">PF03299</font></u>](http://pfam.xfam.org/family/PF03299) | <font style="color:black;">Basic Domians group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">bHLH</font> | <font style="color:black;">HLH domain</font> | [<u><font style="color:#0563c1;">PF00010</font></u>](http://pfam.xfam.org/family/PF00010) | <font style="color:black;">Basic Domians group</font> | <font style="color:black;">1.0E-02</font> |
-| <font style="color:black;">Nrf1</font> | <font style="color:black;">Nrf1_DNA-bind domain</font> | [<u><font style="color:#0563c1;">PF10491</font></u>](http://pfam.xfam.org/family/PF10491) | <font style="color:black;">Basic Domians group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">RFX</font> | <font style="color:black;">RFX domain</font> | [<u><font style="color:#0563c1;">PF02257</font></u>](http://pfam.xfam.org/family/PF02257) | <font style="color:black;">Basic Domians group</font> | <font style="color:black;">1.0E-10</font> |
-| <font style="color:black;">TF_bZIP</font> | <font style="color:black;">bZIP domain</font> | <font style="color:black;">AnimalTFDB</font> | <font style="color:black;">Basic Domians group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">TSC22</font> | <font style="color:black;">TSC22 domain</font> | [<u><font style="color:#0563c1;">PF01166</font></u>](http://pfam.xfam.org/family/PF01166) | <font style="color:black;">Basic Domians group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">CBF</font> | <font style="color:black;">CBF_beta domain</font> | [<u><font style="color:#0563c1;">PF02312</font></u>](http://pfam.xfam.org/family/PF02312) | <font style="color:black;">Beta-Scaffold Factors</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">CP2</font> | <font style="color:black;">CP2 domain</font> | [<u><font style="color:#0563c1;">PF04516</font></u>](http://pfam.xfam.org/family/PF04516) | <font style="color:black;">Beta-Scaffold Factors</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">CSD</font> | <font style="color:black;">CSD domain</font> | [<u><font style="color:#0563c1;">PF00313</font></u>](http://pfam.xfam.org/family/PF00313) | <font style="color:black;">Beta-Scaffold Factors</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">CSL</font> | <font style="color:black;">BTD domain</font> | [<u><font style="color:#0563c1;">PF09270</font></u>](http://pfam.xfam.org/family/PF09270) | <font style="color:black;">Beta-Scaffold Factors</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">GCM</font> | <font style="color:black;">GCM domain</font> | [<u><font style="color:#0563c1;">PF03615</font></u>](http://pfam.xfam.org/family/PF03615) | <font style="color:black;">Beta-Scaffold Factors</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">P53</font> | <font style="color:black;">P53 domain</font> | [<u><font style="color:#0563c1;">PF00870</font></u>](http://pfam.xfam.org/family/PF00870) | <font style="color:black;">Beta-Scaffold Factors</font> | <font style="color:black;">1.0E-03</font> |
-| <font style="color:black;">RHD</font> | <font style="color:black;">RHD domain</font> | [<u><font style="color:#0563c1;">PF00554</font></u>](http://pfam.xfam.org/family/PF00554) | <font style="color:black;">Beta-Scaffold Factors</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">Runt</font> | <font style="color:black;">Runt domain</font> | [<u><font style="color:#0563c1;">PF00853</font></u>](http://pfam.xfam.org/family/PF00853) | <font style="color:black;">Beta-Scaffold Factors</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">STAT</font> | <font style="color:black;">STAT_bind domain</font> | [<u><font style="color:#0563c1;">PF02864</font></u>](http://pfam.xfam.org/family/PF02864) | <font style="color:black;">Beta-Scaffold Factors</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">ARID</font> | <font style="color:black;">ARID domain</font> | [<u><font style="color:#0563c1;">PF01388</font></u>](http://pfam.xfam.org/family/PF01388) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">COE</font> | <font style="color:black;">COE domain</font> | <font style="color:black;">AnimalTFDB</font> | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">CUT</font> | <font style="color:black;">Homeobox|CUT</font> | [<u><font style="color:#0563c1;">PF02376</font></u>](http://pfam.xfam.org/family/PF02376) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">E2F</font> | <font style="color:black;">E2F_TDP domain</font> | [<u><font style="color:#0563c1;">PF02319</font></u>](http://pfam.xfam.org/family/PF02319) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">ETS</font> | <font style="color:black;">Ets domain</font> | [<u><font style="color:#0563c1;">PF00178</font></u>](http://pfam.xfam.org/family/PF00178) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">Fork_head</font> | <font style="color:black;">Fork_head domain</font> | [<u><font style="color:#0563c1;">PF00250</font></u>](http://pfam.xfam.org/family/PF00250) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">Homeobox</font> | <font style="color:black;">Homeobox</font> | [<u><font style="color:#0563c1;">PF00046</font></u>](http://pfam.xfam.org/family/PF00046) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">HPD</font> | <font style="color:black;">HPD domain</font> | [<u><font style="color:#0563c1;">PF05044</font></u>](http://pfam.xfam.org/family/PF05044) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">HSF</font> | <font style="color:black;">HSF_DNA-bind domain</font> | [<u><font style="color:#0563c1;">PF00447</font></u>](http://pfam.xfam.org/family/PF00447) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">HTH</font> | <font style="color:black;">HTH_psq domain</font> | [<u><font style="color:#0563c1;">PF05225</font></u>](http://pfam.xfam.org/family/PF05225) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">IRF</font> | <font style="color:black;">IRF domain</font> | [<u><font style="color:#0563c1;">PF00605</font></u>](http://pfam.xfam.org/family/PF00605) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">MYB</font> | <font style="color:black;">Myb_DNA-binding domain</font> | [<u><font style="color:#0563c1;">PF00249</font></u>](http://pfam.xfam.org/family/PF00249) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">PAX</font> | <font style="color:black;">PAX domain</font> | [<u><font style="color:#0563c1;">PF00292</font></u>](http://pfam.xfam.org/family/PF00292) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">Pou</font> | <font style="color:black;">Homeobox|Pou</font> | [<u><font style="color:#0563c1;">PF00157</font></u>](http://pfam.xfam.org/family/PF00157) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">SRF</font> | <font style="color:black;">SRF domain</font> | [<u><font style="color:#0563c1;">PF00319</font></u>](http://pfam.xfam.org/family/PF00319) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">TEA</font> | <font style="color:black;">TEA domain</font> | [<u><font style="color:#0563c1;">PF01285</font></u>](http://pfam.xfam.org/family/PF01285) | <font style="color:black;">Helix-turn-helix</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">GTF2I</font> | <font style="color:black;">GTF2I domain</font> | [<u><font style="color:#0563c1;">PF02946</font></u>](http://pfam.xfam.org/family/PF02946) | <font style="color:black;">Other Alpha-Helix Group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">HMG</font> | <font style="color:black;">HMG_box domain</font> | [<u><font style="color:#0563c1;">PF00505</font></u>](http://pfam.xfam.org/family/PF00505) | <font style="color:black;">Other Alpha-Helix Group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">NF-YA</font> | <font style="color:black;">CBFB_NFYA domain</font> | [<u><font style="color:#0563c1;">PF02045</font></u>](http://pfam.xfam.org/family/PF02045) | <font style="color:black;">Other Alpha-Helix Group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">NF-YB</font> | <font style="color:black;">NF-YB domain</font> | <font style="color:black;">AnimalTFDB</font> | <font style="color:black;">Other Alpha-Helix Group</font> | <font style="color:black;">1.0E-18</font> |
-| <font style="color:black;">NF-YC</font> | <font style="color:black;">NF-YC domain</font> | <font style="color:black;">AnimalTFDB</font> | <font style="color:black;">Other Alpha-Helix Group</font> | <font style="color:black;">1.0E-18</font> |
-| <font style="color:black;">SAND</font> | <font style="color:black;">SAND domain</font> | [<u><font style="color:#0563c1;">PF01342</font></u>](http://pfam.xfam.org/family/PF01342) | <font style="color:black;">Other Alpha-Helix Group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">AF-4</font> | <font style="color:black;">AF-4 domain</font> | [<u><font style="color:#0563c1;">PF05110</font></u>](http://pfam.xfam.org/family/PF05110) | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-03</font> |
-| <font style="color:black;">CG-1</font> | <font style="color:black;">CG-1 domain</font> | [<u><font style="color:#0563c1;">PF03859</font></u>](http://pfam.xfam.org/family/PF03859) | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">CSRNP_N</font> | <font style="color:black;">CSRNP_N domain</font> | [<u><font style="color:#0563c1;">PF16019</font></u>](http://pfam.xfam.org/family/PF16019) | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">CTF_NFI</font> | <font style="color:black;">CTF/NFI and MH1 domain</font> | [<u><font style="color:#0563c1;">PF00859</font></u>](http://pfam.xfam.org/family/PF00859) | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">DACH</font> | <font style="color:black;">DACH domain</font> | <font style="color:black;">AnimalTFDB</font> | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">GCFC</font> | <font style="color:black;">GCFC domain</font> | [<u><font style="color:#0563c1;">PF07842</font></u>](http://pfam.xfam.org/family/PF07842) | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">HMGA</font> | <font style="color:black;">HMGA domain</font> | <font style="color:black;">AnimalTFDB</font> | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">LRRFIP</font> | <font style="color:black;">LRRFIP domain</font> | [<u><font style="color:#0563c1;">PF09738</font></u>](http://pfam.xfam.org/family/PF09738) | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">MBD</font> | <font style="color:black;">MBD domain</font> | [<u><font style="color:#0563c1;">PF01429</font></u>](http://pfam.xfam.org/family/PF01429) | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-05</font> |
-| <font style="color:black;">MH1</font> | <font style="color:black;">MH1 domain</font> | [<u><font style="color:#0563c1;">PF03165</font></u>](http://pfam.xfam.org/family/PF03165) | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">NCU-G1</font> | <font style="color:black;">NCU-G1 domain</font> | [<u><font style="color:#0563c1;">PF15065</font></u>](http://pfam.xfam.org/family/PF15065) | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">NDT80_PhoG</font> | <font style="color:black;">NDT80_PhoG domain</font> | [<u><font style="color:#0563c1;">PF05224</font></u>](http://pfam.xfam.org/family/PF05224) | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">PC4</font> | <font style="color:black;">PC4 domain</font> | [<u><font style="color:#0563c1;">PF02229</font></u>](http://pfam.xfam.org/family/PF02229) | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">T-box</font> | <font style="color:black;">T-box domain</font> | [<u><font style="color:#0563c1;">PF00907</font></u>](http://pfam.xfam.org/family/PF00907) | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">Tub</font> | <font style="color:black;">Tub domain</font> | [<u><font style="color:#0563c1;">PF01167</font></u>](http://pfam.xfam.org/family/PF01167) | <font style="color:black;">Unclassified Structure</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">DM</font> | <font style="color:black;">DM domain</font> | [<u><font style="color:#0563c1;">PF00751</font></u>](http://pfam.xfam.org/family/PF00751) | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">ESR-like</font> | <font style="color:black;">zf-C4|ESR-like</font> | <font style="color:black;">AnimalTFDB</font> | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-34</font> |
-| <font style="color:black;">NGFIB-like</font> | <font style="color:black;">zf-C4|NGFIB-like</font> | <font style="color:black;">AnimalTFDB</font> | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-24</font> |
-| <font style="color:black;">RXR-like</font> | <font style="color:black;">zf-C4|RXR-like</font> | <font style="color:black;">AnimalTFDB</font> | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-30</font> |
-| <font style="color:black;">SF-like</font> | <font style="color:black;">zf-C4|SF-like</font> | <font style="color:black;">AnimalTFDB</font> | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-40</font> |
-| <font style="color:black;">THAP</font> | <font style="color:black;">THAP domain</font> | [<u><font style="color:#0563c1;">PF05485</font></u>](http://pfam.xfam.org/family/PF05485) | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">THR-like</font> | <font style="color:black;">zf-C4|THR-like</font> | <font style="color:black;">AnimalTFDB</font> | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">ZBTB</font> | <font style="color:black;">zf-C2H2|ZBTB</font> | [<u><font style="color:#0563c1;">PF00651</font></u>](http://pfam.xfam.org/family/PF00651) | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">zf-BED</font> | <font style="color:black;">zf-BED domain</font> | [<u><font style="color:#0563c1;">PF02892</font></u>](http://pfam.xfam.org/family/PF02892) | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">zf-C2H2</font> | <font style="color:black;">zf-C2H2 domain</font> | [<u><font style="color:#0563c1;">PF00096</font></u>](http://pfam.xfam.org/family/PF00096) | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-05</font> |
-| <font style="color:black;">zf-C2HC</font> | <font style="color:black;">zf-C2HC domain</font> | [<u><font style="color:#0563c1;">PF01530</font></u>](http://pfam.xfam.org/family/PF01530) | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">zf-CCCH</font> | <font style="color:black;">zf-CCCH domain</font> | [<u><font style="color:#0563c1;">PF00642</font></u>](http://pfam.xfam.org/family/PF00642) | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-20</font> |
-| <font style="color:black;">zf-GAGA</font> | <font style="color:black;">zf-GAGA domain</font> | [<u><font style="color:#0563c1;">PF09237</font></u>](http://pfam.xfam.org/family/PF09237) | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-05</font> |
-| <font style="color:black;">zf-GATA</font> | <font style="color:black;">zf-GATA domain</font> | [<u><font style="color:#0563c1;">PF00320</font></u>](http://pfam.xfam.org/family/PF00320) | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">zf-LITAF-like</font> | <font style="color:black;">zf-LITAF-like domain</font> | [<u><font style="color:#0563c1;">PF10601</font></u>](http://pfam.xfam.org/family/PF10601) | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">zf-MIZ</font> | <font style="color:black;">zf-MIZ domain</font> | [<u><font style="color:#0563c1;">PF02891</font></u>](http://pfam.xfam.org/family/PF02891) | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-04</font> |
-| <font style="color:black;">zf-NF-X1</font> | <font style="color:black;">zf-NF-X1 domain</font> | [<u><font style="color:#0563c1;">PF01422</font></u>](http://pfam.xfam.org/family/PF01422) | <font style="color:black;">Zinc-Coordinating Group</font> | <font style="color:black;">1.0E-04</font> |
+| Family     | Domain                        | PFAM      | Group                    | Cutoff (E-value) |
+|------------|-------------------------------|-----------|--------------------------|------------------|
+| AP-2       | TF_AP-2 domain                 | PF03299   | Basic Domians group       | 1.0E-04          |
+| bHLH       | HLH domain                     | PF00010   | Basic Domians group       | 1.0E-02          |
+| Nrf1       | Nrf1_DNA-bind domain           | PF10491   | Basic Domians group       | 1.0E-04          |
+| RFX        | RFX domain                     | PF02257   | Basic Domians group       | 1.0E-10          |
+| TF_bZIP    | bZIP domain                    | AnimalTFDB| Basic Domians group       | 1.0E-04          |
+| TSC22      | TSC22 domain                   | PF01166   | Basic Domians group       | 1.0E-04          |
+| CBF        | CBF_beta domain                | PF02312   | Beta-Scaffold Factors     | 1.0E-04          |
+| CP2        | CP2 domain                     | PF04516   | Beta-Scaffold Factors     | 1.0E-04          |
+| CSD        | CSD domain                     | PF00313   | Beta-Scaffold Factors     | 1.0E-04          |
+| CSL        | BTD domain                     | PF09270   | Beta-Scaffold Factors     | 1.0E-04          |
+| GCM        | GCM domain                     | PF03615   | Beta-Scaffold Factors     | 1.0E-04          |
+| P53        | P53 domain                     | PF00870   | Beta-Scaffold Factors     | 1.0E-03          |
+| RHD        | RHD domain                     | PF00554   | Beta-Scaffold Factors     | 1.0E-04          |
+| Runt       | Runt domain                    | PF00853   | Beta-Scaffold Factors     | 1.0E-04          |
+| STAT       | STAT_bind domain               | PF02864   | Beta-Scaffold Factors     | 1.0E-04          |
+| ARID       | ARID domain                    | PF01388   | Helix-turn-helix          | 1.0E-04          |
+| COE        | COE domain                     | AnimalTFDB| Helix-turn-helix          | 1.0E-04          |
+| CUT        | Homeobox|CUT                  | PF02376   | Helix-turn-helix          | 1.0E-04          |
+| E2F        | E2F_TDP domain                 | PF02319   | Helix-turn-helix          | 1.0E-04          |
+| ETS        | Ets domain                     | PF00178   | Helix-turn-helix          | 1.0E-04          |
+| Fork_head  | Fork_head domain               | PF00250   | Helix-turn-helix          | 1.0E-04          |
+| Homeobox   | Homeobox                       | PF00046   | Helix-turn-helix          | 1.0E-04          |
+| HPD        | HPD domain                     | PF05044   | Helix-turn-helix          | 1.0E-04          |
+| HSF        | HSF_DNA-bind domain            | PF00447   | Helix-turn-helix          | 1.0E-04          |
+| HTH        | HTH_psq domain                 | PF05225   | Helix-turn-helix          | 1.0E-04          |
+| IRF        | IRF domain                     | PF00605   | Helix-turn-helix          | 1.0E-04          |
+| MYB        | Myb_DNA-binding domain         | PF00249   | Helix-turn-helix          | 1.0E-04          |
+| PAX        | PAX domain                     | PF00292   | Helix-turn-helix          | 1.0E-04          |
+| Pou        | Homeobox|Pou                  | PF00157   | Helix-turn-helix          | 1.0E-04          |
+| SRF        | SRF domain                     | PF00319   | Helix-turn-helix          | 1.0E-04          |
+| TEA        | TEA domain                     | PF01285   | Helix-turn-helix          | 1.0E-04          |
+| GTF2I      | GTF2I domain                   | PF02946   | Other Alpha-Helix Group   | 1.0E-04          |
+| HMG        | HMG_box domain                 | PF00505   | Other Alpha-Helix Group   | 1.0E-04          |
+| NF-YA      | CBFB_NFYA domain               | PF02045   | Other Alpha-Helix Group   | 1.0E-04          |
+| NF-YB      | NF-YB domain                   | AnimalTFDB| Other Alpha-Helix Group   | 1.0E-18          |
+| NF-YC      | NF-YC domain                   | AnimalTFDB| Other Alpha-Helix Group   | 1.0E-18          |
+| SAND       | SAND domain                    | PF01342   | Other Alpha-Helix Group   | 1.0E-04          |
+| AF-4       | AF-4 domain                    | PF05110   | Unclassified Structure    | 1.0E-03          |
+| CG-1       | CG-1 domain                    | PF03859   | Unclassified Structure    | 1.0E-04          |
+| CSRNP_N    | CSRNP_N domain                 | PF16019   | Unclassified Structure    | 1.0E-04          |
+| CTF_NFI    | CTF/NFI and MH1 domain         | PF00859   | Unclassified Structure    | 1.0E-04          |
+| DACH       | DACH domain                    | AnimalTFDB| Unclassified Structure    | 1.0E-04          |
+| GCFC       | GCFC domain                    | PF07842   | Unclassified Structure    | 1.0E-04          |
+| HMGA       | HMGA domain                    | AnimalTFDB| Unclassified Structure    | 1.0E-04          |
+| LRRFIP     | LRRFIP domain                  | PF09738   | Unclassified Structure    | 1.0E-04          |
+| MBD        | MBD domain                     | PF01429   | Unclassified Structure    | 1.0E-05          |
+| MH1        | MH1 domain                     | PF03165   | Unclassified Structure    | 1.0E-04          |
+| NCU-G1     | NCU-G1 domain                  | PF15065   | Unclassified Structure    | 1.0E-04          |
+| NDT80_PhoG | NDT80_PhoG domain              | PF05224   | Unclassified Structure    | 1.0E-04          |
+| PC4        | PC4 domain                     | PF02229   | Unclassified Structure    | 1.0E-04          |
+| T-box      | T-box domain                   | PF00907   | Unclassified Structure    | 1.0E-04          |
+| Tub        | Tub domain                     | PF01167   | Unclassified Structure    | 1.0E-04          |
+| DM         | DM domain                      | PF00751   | Zinc-Coordinating Group   | 1.0E-04          |
+| ESR-like   | zf-C4|ESR-like                 | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-34          |
+| NGFIB-like | zf-C4|NGFIB-like               | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-24          |
+| RXR-like   | zf-C4|RXR-like                 | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-30          |
+| SF-like    | zf-C4|SF-like                  | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-40          |
+| THAP       | THAP domain                    | PF05485   | Zinc-Coordinating Group   | 1.0E-04          |
+| THR-like   | zf-C4|THR-like                 | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-04          |
+| ZBTB       | zf-C2H2|ZBTB                   | PF00651   | Zinc-Coordinating Group   | 1.0E-04          |
+| zf-BED     | zf-BED domain                  | PF02892   | Zinc-Coordinating Group   | 1.0E-04          |
+| zf-C2H2    | zf-C2H2 domain                 | PF00096   | Zinc-Coordinating Group   | 1.0E-05          |
+| zf-C2HC    | zf-C2HC domain                 | PF01530   | Zinc-Coordinating Group   | 1.0E-04          |
+| zf-CCCH    | zf-CCCH domain                 | PF00642   | Zinc-Coordinating Group   | 1.0E-20          |
+| zf-GAGA    | zf-GAGA domain                 | PF09237   | Zinc-Coordinating Group   | 1.0E-05          |
+| zf-GATA    | zf-GATA domain                 | PF00320   | Zinc-Coordinating Group   | 1.0E-04          |
+| zf-LITAF-like | zf-LITAF-like domain        | PF10601   | Zinc-Coordinating Group   | 1.0E-04          |
+| zf-MIZ     | zf-MIZ domain                  | PF02891   | Zinc-Coordinating Group   | 1.0E-04          |
+| zf-NF-X1   | zf-NF-X1 domain                | PF01422   | Zinc-Coordinating Group   | 1.0E-04          |
 
 
