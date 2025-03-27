@@ -69,13 +69,14 @@ df.to_csv("filtered_tf_hits.csv", index=False)
 
 <h3 id="wvEyM">Step 3: Functional Annotation</h3>
 <h4 id="hZnGc">3.1 Sequence Alignment with UniProt (DIAMOND)</h4>
+
 ```bash
 diamond blastp -d uniprot.dmnd -q proteins.fa \
   -o uniprot_matches.tsv \
   --sensitive -k 1 --query-cover 50 -e 1e-5 -p 20
 ```
 
-+ `uniprot.dmnd` is the pre-built DIAMOND database for UniProt.
+"uniprot.dmnd" is the pre-built DIAMOND database for UniProt.
 
 ---
 
