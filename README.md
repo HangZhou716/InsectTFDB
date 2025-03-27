@@ -137,7 +137,7 @@ mmseqs createtsv tf_db tf_db tf_cluster tf_cluster.tsv
 | STAT       | STAT_bind domain               | PF02864   | Beta-Scaffold Factors     | 1.0E-04          |
 | ARID       | ARID domain                    | PF01388   | Helix-turn-helix          | 1.0E-04          |
 | COE        | COE domain                     | AnimalTFDB| Helix-turn-helix          | 1.0E-04          |
-| CUT        | Homeobox|CUT                  | PF02376   | Helix-turn-helix          | 1.0E-04          |
+| CUT        | Homeobox_CUT                  | PF02376   | Helix-turn-helix          | 1.0E-04          |
 | E2F        | E2F_TDP domain                 | PF02319   | Helix-turn-helix          | 1.0E-04          |
 | ETS        | Ets domain                     | PF00178   | Helix-turn-helix          | 1.0E-04          |
 | Fork_head  | Fork_head domain               | PF00250   | Helix-turn-helix          | 1.0E-04          |
@@ -173,13 +173,13 @@ mmseqs createtsv tf_db tf_db tf_cluster tf_cluster.tsv
 | T-box      | T-box domain                   | PF00907   | Unclassified Structure    | 1.0E-04          |
 | Tub        | Tub domain                     | PF01167   | Unclassified Structure    | 1.0E-04          |
 | DM         | DM domain                      | PF00751   | Zinc-Coordinating Group   | 1.0E-04          |
-| ESR-like   | zf-C4|ESR-like                 | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-34          |
-| NGFIB-like | zf-C4|NGFIB-like               | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-24          |
-| RXR-like   | zf-C4|RXR-like                 | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-30          |
-| SF-like    | zf-C4|SF-like                  | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-40          |
+| ESR-like   | zf-C4_ESR-like                 | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-34          |
+| NGFIB-like | zf-C4_NGFIB-like               | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-24          |
+| RXR-like   | zf-C4_RXR-like                 | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-30          |
+| SF-like    | zf-C4_SF-like                  | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-40          |
 | THAP       | THAP domain                    | PF05485   | Zinc-Coordinating Group   | 1.0E-04          |
-| THR-like   | zf-C4|THR-like                 | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-04          |
-| ZBTB       | zf-C2H2|ZBTB                   | PF00651   | Zinc-Coordinating Group   | 1.0E-04          |
+| THR-like   | zf-C4_THR-like                 | AnimalTFDB| Zinc-Coordinating Group   | 1.0E-04          |
+| ZBTB       | zf-C2H2_ZBTB                   | PF00651   | Zinc-Coordinating Group   | 1.0E-04          |
 | zf-BED     | zf-BED domain                  | PF02892   | Zinc-Coordinating Group   | 1.0E-04          |
 | zf-C2H2    | zf-C2H2 domain                 | PF00096   | Zinc-Coordinating Group   | 1.0E-05          |
 | zf-C2HC    | zf-C2HC domain                 | PF01530   | Zinc-Coordinating Group   | 1.0E-04          |
