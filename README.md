@@ -81,6 +81,7 @@ diamond blastp -d uniprot.dmnd -q proteins.fa \
 ---
 
 <h4 id="SJkYi">3.2 Functional Annotation using eggNOG-mapper (GO / KEGG) (<font style="color:rgb(123, 126, 138);">eggNOG 6 database)</font></h4>
+
 ```bash
 emapper.py --cpu 20 --mp_start_method forkserver \
 --data_dir /dev/shm/ -o $query_name \
