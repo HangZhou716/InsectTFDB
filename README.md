@@ -97,12 +97,12 @@ emapper.py --cpu 20 --mp_start_method forkserver \
 --excel > /emapper.out 2> /emapper.err
 ```
 
-The output includes `.annotations` files, containing functional annotations, GO terms, and KEGG pathway information. <font style="color:rgb(123, 126, 138);"></font>
+The output includes ".annotations" files, containing functional annotations, GO terms, and KEGG pathway information. <font style="color:rgb(123, 126, 138);"></font>
 
 ---
 
 <h3 id="LUs5g">Step 4: Clustering Analysis</h3>
-Use `MMseqs2` for clustering the identified TF proteins to analyze evolutionary relationships.
+Use "MMseqs2" for clustering the identified TF proteins to analyze evolutionary relationships.
 
 ```bash
 mmseqs createdb proteins.fa tf_db
