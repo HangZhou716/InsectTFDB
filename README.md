@@ -73,7 +73,7 @@ df.to_csv("filtered_tf_hits.csv", index=False)
 ```bash
 diamond blastp -d uniprot.dmnd -q proteins.fa \
   -o uniprot_matches.tsv \
-  --sensitive -k 1 --query-cover 50 -e 1e-5 -p 20
+  --sensitive -k 1 --id 30 --query-cover 50 -e 1e-5 -p 20
 ```
 
 "uniprot.dmnd" is the pre-built DIAMOND database for UniProt.
