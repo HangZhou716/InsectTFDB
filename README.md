@@ -21,7 +21,7 @@ AnimalTFDB 4.0 and InterPro for Hidden Markov Model (HMM) profiles of transcript
 Genomes and official gene sets are retrieved from "InsectBase 2.0" and "NCBI", filtered by BUSCO completeness scores greater than 80%. 
 
 <h4 id="qWJma">1.2 GFF collection</h4>
- For genomes not derived from InsectBase 2.0, annotations were uniformly completed following the pipeline at [https://github.com/meiyang12/Genome-annotation-pipeline](https://github.com/meiyang12/Genome-annotation-pipeline).
+ For genomes not derived from InsectBase 2.0, annotations were uniformly completed following the pipeline at https://github.com/meiyang12/Genome-annotation-pipeline.
 
 <h3 id="ofkVn">Step 2: Transcription Factor Identification</h3>
 <h4 id="jZZcW">2.1  Extract Protein Sequences  </h4>
