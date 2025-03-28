@@ -40,13 +40,13 @@ Where:
 ---
 
 <h4 id="jQ52m">2.2 Use HMMER to Identify Transcription Factors</h4>
-Download the TF HMM models (from AnimalTFDB or InterPro), and use `hmmscan` for scanning.
+Download the TF HMM models (from AnimalTFDB or InterPro), and use "hmmscan" for scanning.
 
 ```bash
 hmmscan --domtblout tf.domtblout --cpu 40 TF.hmm proteins.fa > tf.hmmscan.txt
 ```
 
-Use the following script to filter matches with E-value ≤ 1e-4:
+Use the following script to filter matches with E-value ≤ 1e-4 (Cutoff for different TFs present in Table S2):
 
 ```python
 import pandas as pd
